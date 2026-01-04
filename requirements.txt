@@ -1,0 +1,7 @@
+yfinance==0.1.96
+pandas==2.3.3
+numpy
+requests
+lxml
+cryptography
+yahooquery
